@@ -1,0 +1,1899 @@
+{
+  "AI": [
+    {
+      "question": "What does AI stand for?",
+      "options": [
+        {"text": "Artificial Intelligence", "isCorrect": true },
+        {"text": "Automated Integration", "isCorrect": false },
+        {"text": "Applied Informatics", "isCorrect": false },
+        {"text": "Advanced Interface", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which is an example of AI?",
+      "options": [
+        {"text": "Compass", "isCorrect": false },
+        {"text": "Notepad", "isCorrect": false },
+        {"text": "Calculator", "isCorrect": false },
+        {"text": "ChatGPT", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the primary goal of AI?",
+      "options": [
+
+        {"text": "To automate processes", "isCorrect": false },
+        {"text": "To simulate human intelligence", "isCorrect": true },
+        {"text": "To improve database efficiency", "isCorrect": false },
+        {"text": "To enhance hardware performance", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of these is a subset of AI?",
+      "options": [
+
+        {"text": "Operating Systems", "isCorrect": false },
+        {"text": "Web Development", "isCorrect": false },
+        {"text": "Machine Learning", "isCorrect": true },
+        {"text": "Cybersecurity", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which company developed AlphaGo?",
+      "options": [
+
+        {"text": "OpenAI", "isCorrect": false },
+        {"text": "DeepMind", "isCorrect": true },
+        {"text": "Microsoft", "isCorrect": false },
+        {"text": "IBM", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is Natural Language Processing (NLP)?",
+      "options": [
+        {"text": "Processing and analyzing human language", "isCorrect": true },
+        {"text": "A programming language", "isCorrect": false },
+        {"text": "A type of hardware", "isCorrect": false },
+        {"text": "A compiler tool", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which AI algorithm is used for game playing?",
+      "options": [
+
+        {"text": "Dijkstra", "isCorrect": false },
+        {"text": "QuickSort", "isCorrect": false },
+        {"text": "Minimax", "isCorrect": true },
+        {"text": "Bellman-Ford", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the Turing Test used for?",
+      "options": [
+        {"text": "Testing machine intelligence", "isCorrect": true },
+        {"text": "Measuring software efficiency", "isCorrect": false },
+        {"text": "Testing programming skills", "isCorrect": false },
+        {"text": "Evaluating database designs", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is an application of AI?",
+      "options": [
+
+        {"text": "Sorting algorithms", "isCorrect": false },
+        {"text": "System design", "isCorrect": false },
+        {"text": "Low-level programming", "isCorrect": false },
+        {"text": "Image recognition", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which language is primarily used for AI development?",
+      "options": [
+
+        {"text": "Java", "isCorrect": false },
+        {"text": "Python", "isCorrect": true },
+        {"text": "C", "isCorrect": false },
+        {"text": "HTML", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does AGI stand for in AI?",
+      "options": [
+        {"text": "Artificial General Intelligence", "isCorrect": true },
+        {"text": "Advanced General Interface", "isCorrect": false },
+        {"text": "Automated Graph Integration", "isCorrect": false },
+        {"text": "Applied Genetic Intelligence", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is not a type of AI?",
+      "options": [
+        {"text": "Reactive Machines", "isCorrect": false },
+        {"text": "Limited Memory", "isCorrect": false },
+        {"text": "Deep Learning", "isCorrect": false },
+        {"text": "Cloud Computing", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the role of AI in autonomous vehicles?",
+      "options": [
+        {"text": "Decision making and navigation", "isCorrect": true },
+        {"text": "Vehicle assembly", "isCorrect": false },
+        {"text": "Fuel optimization", "isCorrect": false },
+        {"text": "Hardware enhancement", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which AI concept involves self-improvement?",
+      "options": [
+        {"text": "Machine Learning", "isCorrect": false },
+        {"text": "Deep Learning", "isCorrect": false },
+        {"text": "Reinforcement Learning", "isCorrect": true },
+        {"text": "Transfer Learning", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of a neural network in AI?",
+      "options": [
+        {"text": "Mimics the human brain", "isCorrect": true },
+        {"text": "Controls database schemas", "isCorrect": false },
+        {"text": "Enhances GUI features", "isCorrect": false },
+        {"text": "Analyzes low-level code", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of these is an unsupervised learning algorithm?",
+      "options": [
+
+        {"text": "Logistic Regression", "isCorrect": false },
+        {"text": "Decision Tree", "isCorrect": false },
+        {"text": "K-Means Clustering", "isCorrect": true },
+        {"text": "Support Vector Machine", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is used in image processing in AI?",
+      "options": [
+        {"text": "Recurrent Neural Networks (RNNs)", "isCorrect": false },
+        {"text": "Linear Regression", "isCorrect": false },
+        {"text": "Convolutional Neural Networks (CNNs)", "isCorrect": true },
+
+        {"text": "Bayesian Networks", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is sentiment analysis?",
+      "options": [
+        {"text": "Calculating numeric sentiment scores", "isCorrect": false },
+        {"text": "Evaluating database storage", "isCorrect": false },
+        {"text": "Determining the emotion behind a text", "isCorrect": true },
+
+        {"text": "Measuring hardware sentiment", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is an ethical concern in AI?",
+      "options": [
+        {"text": "Bias in algorithms", "isCorrect": true },
+        {"text": "Efficiency of computations", "isCorrect": false },
+        {"text": "Speed of hardware", "isCorrect": false },
+        {"text": "Amount of programming languages", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which AI system defeated the world chess champion in 1997?",
+      "options": [
+        {"text": "Deep Blue", "isCorrect": true },
+        {"text": "Watson", "isCorrect": false },
+        {"text": "AlphaZero", "isCorrect": false },
+        {"text": "AlphaGo", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a common use of AI in healthcare?",
+      "options": [
+        {"text": "Building houses", "isCorrect": false },
+        {"text": "Diagnosing diseases", "isCorrect": true },
+        {"text": "Planting trees", "isCorrect": false },
+        {"text": "Cooking food", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of reinforcement learning in AI?",
+      "options": [
+        {"text": "To classify images", "isCorrect": false },
+        {"text": "To improve GUI design", "isCorrect": false },
+        {"text": "To manage cloud storage", "isCorrect": false },
+        {"text": "To train AI with rewards and penalties", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which of the following best describes AI?",
+      "options": [
+        {"text": "Machines simulating human intelligence", "isCorrect": true },
+        {"text": "A type of database", "isCorrect": false },
+        {"text": "A software for gaming", "isCorrect": false },
+        {"text": "A programming language", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the full form of NLP in AI?",
+      "options": [
+        {"text": "Network Learning Protocol", "isCorrect": false },
+        {"text": "Node Logic Processing", "isCorrect": false },
+        {"text": "Natural Language Processing", "isCorrect": true },
+        {"text": "Neutral Link Programming", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which AI technique is used in voice assistants?",
+      "options": [
+        {"text": "Database indexing", "isCorrect": false },
+        {"text": "Sorting algorithms", "isCorrect": false },
+        {"text": "Data visualization", "isCorrect": false },
+        {"text": "Natural Language Processing", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which of these is an example of narrow AI?",
+      "options": [
+        {"text": "A neural interface", "isCorrect": false },
+        {"text": "Siri", "isCorrect": true },
+        {"text": "A self-aware robot", "isCorrect": false },
+        {"text": "AGI", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the key difference between AI and Machine Learning?",
+      "options": [
+        {"text": "ML is broader, AI is a subset", "isCorrect": false },
+        {"text": "AI is broader, ML is a subset", "isCorrect": true },
+        {"text": "AI deals with data storage", "isCorrect": false },
+        {"text": "ML handles hardware design", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does a chatbot primarily use to understand user input?",
+      "options": [
+        {"text": "Sorting algorithms", "isCorrect": false },
+        {"text": "Encryption techniques", "isCorrect": false },
+        {"text": "Natural Language Processing", "isCorrect": true },
+        {"text": "Hardware specifications", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is overfitting in AI?",
+      "options": [
+        {"text": "Training models with labeled data", "isCorrect": false },
+        {"text": "Model cannot process data", "isCorrect": false },
+        {"text": "Model performs well on training data but poorly on new data", "isCorrect": true },
+        {"text": "Model ignores training data", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which company developed Watson AI?",
+      "options": [
+        {"text": "IBM", "isCorrect": true },
+        {"text": "Google", "isCorrect": false },
+        {"text": "Amazon", "isCorrect": false },
+        {"text": "Microsoft", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is computer vision in AI?",
+      "options": [
+        {"text": "Building user interfaces", "isCorrect": false },
+        {"text": "Analyzing audio signals", "isCorrect": false },
+        {"text": "Storing visual data", "isCorrect": false },
+        {"text": "Enabling machines to interpret and analyze visual data", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which of the following is a limitation of AI?",
+      "options": [
+        {"text": "Efficient data processing", "isCorrect": false },
+        {"text": "Automation capabilities", "isCorrect": false },
+        {"text": "Fast computation speed", "isCorrect": false },
+        {"text": "Lack of common sense reasoning", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the primary function of a decision tree in AI?",
+      "options": [
+        {"text": "Encrypting data", "isCorrect": false },
+        {"text": "Enhancing images", "isCorrect": false },
+        {"text": "Storing data", "isCorrect": false },
+        {"text": "Classifying data", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which of these is a neural network architecture?",
+      "options": [
+        {"text": "Recurrent Neural Network (RNN)", "isCorrect": true },
+        {"text": "Bubble Sort", "isCorrect": false },
+        {"text": "Relational Database", "isCorrect": false },
+        {"text": "Binary Search", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is supervised learning?",
+      "options": [
+        {"text": "Training models with unlabeled data", "isCorrect": false },
+        {"text": "Building AI hardware", "isCorrect": false },
+        {"text": "Analyzing hardware", "isCorrect": false },
+        {"text": "Training models with labeled data", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which of these AI tools is used for data visualization?",
+      "options": [
+        {"text": "QuickSort", "isCorrect": false },
+        {"text": "ChatGPT", "isCorrect": false },
+        {"text": "Tableau", "isCorrect": true },
+        {"text": "ReLU", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of a convolutional layer in CNN?",
+      "options": [
+        {"text": "Improving storage efficiency", "isCorrect": false },
+        {"text": "Extracting features from images", "isCorrect": true },
+        {"text": "Storing data", "isCorrect": false },
+        {"text": "Encrypting files", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is AI ethics concerned with?",
+      "options": [
+        {"text": "Writing new programming languages", "isCorrect": false },
+        {"text": "Responsible use of AI", "isCorrect": true },
+        {"text": "Faster computations", "isCorrect": false },
+        {"text": "Improving hardware", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which AI concept allows machines to transfer knowledge to a new task?",
+      "options": [
+        {"text": "Data Mining", "isCorrect": false },
+        {"text": "Reinforcement Learning", "isCorrect": false },
+        {"text": "Unsupervised Learning", "isCorrect": false },
+        {"text": "Transfer Learning", "isCorrect": true }
+      ]
+    },
+
+    {
+      "question": "Which of the following algorithms is commonly used in supervised learning?",
+      "options": [
+        {"text": "K-means Clustering", "isCorrect": false },
+        {"text": "Decision Trees", "isCorrect": true },
+        {"text": "Genetic Algorithms", "isCorrect": false },
+        {"text": "Simulated Annealing", "isCorrect": false }
+      ]
+    }
+
+
+  ],
+  "Machine Learning": [
+    {
+      "question": "What is supervised learning?",
+      "options": [
+        {"text": "Learning without labels", "isCorrect": false },
+        {"text": "Learning by reinforcement", "isCorrect": false },
+        {"text": "Learning with labeled data", "isCorrect": true },
+
+        {"text": "Learning through random sampling", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the main goal of unsupervised learning?",
+      "options": [
+
+        {"text": "To predict future outcomes", "isCorrect": false },
+        {"text": "To find patterns in data", "isCorrect": true },
+        {"text": "To classify labeled data", "isCorrect": false },
+        {"text": "To penalize incorrect actions", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is overfitting in machine learning?",
+      "options": [
+        {"text": "When a model performs well on training data but poorly on test data", "isCorrect": true },
+        {"text": "When a model performs poorly on both training and test data", "isCorrect": false },
+        {"text": "When a model fails to converge during training", "isCorrect": false },
+        {"text": "When a model uses an incorrect algorithm", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which algorithm is commonly used for classification problems?",
+      "options": [
+        {"text": "K-Means Clustering", "isCorrect": false },
+        {"text": "Breadth-First Search", "isCorrect": false },
+        {"text": "Bellman-Ford Algorithm", "isCorrect": false },
+        {"text": "Support Vector Machine (SVM)", "isCorrect": true }
+
+      ]
+    },
+    {
+      "question": "What is a decision tree in machine learning?",
+      "options": [
+        {"text": "A type of unsupervised learning algorithm", "isCorrect": false },
+        {"text": "A neural network with three layers", "isCorrect": false },
+        {"text": "A data clustering algorithm", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of gradient descent?",
+      "options": [
+        {"text": "To calculate accuracy", "isCorrect": false },
+        {"text": "To minimize the cost function", "isCorrect": true },
+        {"text": "To evaluate the training set", "isCorrect": false },
+        {"text": "To split the dataset", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a hyperparameter in machine learning?",
+      "options": [
+        {"text": "A parameter set before training", "isCorrect": true },
+        {"text": "A feature used in the dataset", "isCorrect": false },
+        {"text": "A parameter learned during training", "isCorrect": false },
+        {"text": "A type of cost function", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is regularization used for?",
+      "options": [
+        {"text": "To increase the number of features", "isCorrect": false },
+        {"text": "To decrease model complexity", "isCorrect": false },
+        {"text": "To prevent overfitting", "isCorrect": true },
+        {"text": "To improve data visualization", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does a confusion matrix measure?",
+      "options": [
+
+        {"text": "Model training speed", "isCorrect": false },
+        {"text": "Amount of missing data", "isCorrect": false },
+        {"text": "Number of epochs", "isCorrect": false },
+        {"text": "Model performance", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which activation function is commonly used in neural networks?",
+      "options": [
+
+        {"text": "Linear", "isCorrect": false },
+        {"text": "ReLU (Rectified Linear Unit)", "isCorrect": true },
+        {"text": "Polynomial", "isCorrect": false },
+        {"text": "Exponential", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of a kernel in SVM?",
+      "options": [
+        {"text": "To transform data into higher dimensions", "isCorrect": true },
+        {"text": "To calculate error rates", "isCorrect": false },
+        {"text": "To split training and test data", "isCorrect": false },
+        {"text": "To normalize the dataset", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is feature scaling?",
+      "options": [
+        {"text": "Normalizing the range of features", "isCorrect": true },
+        {"text": "Increasing the number of features", "isCorrect": false },
+        {"text": "Removing irrelevant features", "isCorrect": false },
+        {"text": "Transforming labels into features", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which metric is used for regression models?",
+      "options": [
+
+        {"text": "Accuracy", "isCorrect": false },
+        {"text": "Precision", "isCorrect": false },
+        {"text": "Mean Squared Error (MSE)", "isCorrect": true },
+        {"text": "Recall", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is reinforcement learning?",
+      "options": [
+        {"text": "Learning by receiving rewards and penalties", "isCorrect": true },
+        {"text": "Learning with labeled data", "isCorrect": false },
+        {"text": "Learning without data", "isCorrect": false },
+        {"text": "Learning by clustering data", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a perceptron?",
+      "options": [
+        {"text": "The simplest type of artificial neuron", "isCorrect": true },
+        {"text": "A type of deep neural network", "isCorrect": false },
+        {"text": "A clustering algorithm", "isCorrect": false },
+        {"text": "An optimization function", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a learning rate in machine learning?",
+      "options": [
+        {"text": "The step size used in gradient descent", "isCorrect": true },
+        {"text": "The number of iterations per epoch", "isCorrect": false },
+        {"text": "The percentage of data split", "isCorrect": false },
+        {"text": "The depth of decision trees", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does 'K' represent in K-Nearest Neighbors (KNN)?",
+      "options": [
+        {"text": "Number of features in the dataset", "isCorrect": false },
+        {"text": "Number of decision trees", "isCorrect": false },
+        {"text": "Number of neighbors considered", "isCorrect": true },
+        {"text": "Learning rate value", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does an epoch represent in training?",
+      "options": [
+
+        {"text": "The completion of a single training step", "isCorrect": false },
+        {"text": "One pass through the entire dataset", "isCorrect": true },
+        {"text": "One forward pass in a neural network", "isCorrect": false },
+        {"text": "The convergence of a model", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a clustering algorithm?",
+      "options": [
+        {"text": "Logistic Regression", "isCorrect": false },
+        {"text": "Linear Regression", "isCorrect": false },
+        {"text": "K-Means", "isCorrect": true },
+        {"text": "Decision Tree", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a cost function in machine learning?",
+      "options": [
+
+        {"text": "A function that adjusts weights", "isCorrect": false },
+        {"text": "A function that measures model error", "isCorrect": true },
+        {"text": "A function that determines test data", "isCorrect": false },
+        {"text": "A function that visualizes datasets", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of a validation dataset?",
+      "options": [
+        {"text": "To fine-tune hyperparameters", "isCorrect": true },
+        {"text": "To test the model after training", "isCorrect": false },
+        {"text": "To store unused data", "isCorrect": false },
+        {"text": "To train the model", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a common distance metric in machine learning?",
+      "options": [
+        {"text": "Celsius", "isCorrect": false },
+        {"text": "Manhattan distance", "isCorrect": true },
+        {"text": "Frequency", "isCorrect": false },
+        {"text": "Wavelength", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a common use case for Principal Component Analysis (PCA)?",
+      "options": [
+        {"text": "Label encoding", "isCorrect": false },
+        {"text": "Dimensionality reduction", "isCorrect": true },
+        {"text": "Data augmentation", "isCorrect": false },
+        {"text": "Supervised learning", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does an ROC curve represent?",
+      "options": [
+        {"text": "True Positive Rate vs False Positive Rate", "isCorrect": true },
+        {"text": "Recall vs F1 Score", "isCorrect": false },
+        {"text": "Precision vs Threshold", "isCorrect": false },
+        {"text": "Accuracy vs Precision", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does bagging stand for in ensemble learning?",
+      "options": [
+        {"text": "Bootstrap Aggregating", "isCorrect": true },
+        {"text": "Batch Generalization", "isCorrect": false },
+        {"text": "Binary Aggregation", "isCorrect": false },
+        {"text": "Backward Aggregation", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the curse of dimensionality?",
+      "options": [
+        {"text": "When the dataset is imbalanced", "isCorrect": false },
+        {"text": "When features are not normalized", "isCorrect": false },
+        {"text": "When data becomes sparse in high-dimensional spaces", "isCorrect": true },
+        {"text": "When the number of data points increases drastically", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is transfer learning?",
+      "options": [
+        {"text": "Learning by iteratively tuning parameters", "isCorrect": false },
+        {"text": "Learning by augmenting datasets", "isCorrect": false },
+        {"text": "Learning with unlabeled data", "isCorrect": false },
+        {"text": "Learning from one task to apply to a related task", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What does L1 regularization encourage in a model?",
+      "options": [
+        {"text": "Increasing the learning rate", "isCorrect": false },
+        {"text": "Wider decision boundaries", "isCorrect": false },
+        {"text": "Minimizing the number of data points", "isCorrect": false },
+        {"text": "Sparser models with fewer features", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is a softmax function used for?",
+      "options": [
+        {"text": "To normalize outputs into probabilities", "isCorrect": true },
+        {"text": "To regularize a model", "isCorrect": false },
+        {"text": "To calculate gradient descent", "isCorrect": false },
+        {"text": "To improve training speed", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is an autoencoder?",
+      "options": [
+        {"text": "A neural network used for feature extraction", "isCorrect": true },
+        {"text": "A clustering algorithm", "isCorrect": false },
+        {"text": "A type of generative model", "isCorrect": false },
+        {"text": "A supervised learning algorithm", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which optimization algorithm is commonly used in deep learning?",
+      "options": [
+        {"text": "Bellman-Ford", "isCorrect": false },
+        {"text": "Adam", "isCorrect": true },
+        {"text": "Breadth-First Search", "isCorrect": false },
+        {"text": "Quick Sort", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of dropout in neural networks?",
+      "options": [
+        {"text": "To prevent overfitting by randomly disabling neurons during training", "isCorrect": true },
+        {"text": "To speed up convergence", "isCorrect": false },
+        {"text": "To increase the model’s complexity", "isCorrect": false },
+        {"text": "To improve accuracy on training data", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a convolutional neural network (CNN) primarily used for?",
+      "options": [
+        {"text": "Clustering data", "isCorrect": false },
+        {"text": "Image processing", "isCorrect": true },
+        {"text": "Text generation", "isCorrect": false },
+        {"text": "Speech synthesis", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does a high variance in a machine learning model indicate?",
+      "options": [
+        {"text": "Underfitting to training data", "isCorrect": false },
+        {"text": "Poor performance on training data", "isCorrect": false },
+        {"text": "Good generalization to new data", "isCorrect": false },
+        {"text": "Overfitting to training data", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the vanishing gradient problem?",
+      "options": [
+        {"text": "Gradients stop changing entirely", "isCorrect": false },
+        {"text": "Gradients increase the model complexity", "isCorrect": false },
+        {"text": "Gradients become too small to update weights effectively", "isCorrect": true },
+        {"text": "Gradients become too large, causing instability", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which method is used for dimensionality reduction?",
+      "options": [
+        {"text": "Gradient Descent", "isCorrect": false },
+        {"text": "Principal Component Analysis (PCA)", "isCorrect": true },
+        {"text": "Random Forest", "isCorrect": false },
+        {"text": "Neural Networks", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the key concept behind k-fold cross-validation?",
+      "options": [
+        {"text": "Training on the entire dataset multiple times", "isCorrect": false },
+        {"text": "Validating model only once", "isCorrect": false },
+        {"text": "Using different hyperparameters for each fold", "isCorrect": false },
+        {"text": "Dividing data into k subsets and training on k-1 subsets", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which algorithm is used for regression tasks?",
+      "options": [
+        {"text": "Logistic Regression", "isCorrect": false },
+        {"text": "K-Means", "isCorrect": false },
+        {"text": "Linear Regression", "isCorrect": true },
+        {"text": "Apriori", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of batch normalization?",
+      "options": [
+        {"text": "To simplify the cost function", "isCorrect": false },
+        {"text": "To stabilize and speed up training", "isCorrect": true },
+        {"text": "To prevent overfitting", "isCorrect": false },
+        {"text": "To normalize input features", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the F1 score measure?",
+      "options": [
+        {"text": "The harmonic mean of precision and recall", "isCorrect": true },
+        {"text": "The accuracy of a model", "isCorrect": false },
+        {"text": "The area under the ROC curve", "isCorrect": false },
+        {"text": "The average precision and recall", "isCorrect": false }
+      ]
+    }
+
+
+  ],
+
+
+
+  "Social Study": [
+    {
+      "question": "What is the capital of the United States?",
+      "options": [
+        {"text": "Washington, D.C.", "isCorrect": true },
+        {"text": "New York City", "isCorrect": false },
+        {"text": "Los Angeles", "isCorrect": false },
+        {"text": "Chicago", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": [
+
+        {"text": "Thomas Jefferson", "isCorrect": false },
+        {"text": "George Washington", "isCorrect": true },
+        {"text": "Abraham Lincoln", "isCorrect": false },
+        {"text": "John Adams", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the main purpose of the United Nations?",
+      "options": [
+        {"text": "To regulate global trade", "isCorrect": false },
+        {"text": "To oversee educational systems", "isCorrect": false },
+        {"text": "To promote international peace and security", "isCorrect": true },
+        {"text": "To manage global economic policies", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which war ended with the Treaty of Versailles?",
+      "options": [
+
+        {"text": "World War II", "isCorrect": false },
+        {"text": "The American Civil War", "isCorrect": false },
+        {"text": "The Korean War", "isCorrect": false },
+        {"text": "World War I", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What was the main cause of the Cold War?",
+      "options": [
+        {"text": "Ideological conflict between capitalism and communism", "isCorrect": true },
+        {"text": "Territorial disputes in Europe", "isCorrect": false },
+        {"text": "The Great Depression", "isCorrect": false },
+        {"text": "Colonial independence movements", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who wrote the Declaration of Independence?",
+      "options": [
+
+        {"text": "Benjamin Franklin", "isCorrect": false },
+        {"text": "Thomas Jefferson", "isCorrect": true },
+        {"text": "John Adams", "isCorrect": false },
+        {"text": "James Madison", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which revolution is associated with the slogan Liberty, Equality, Fraternity?",
+      "options": [
+
+        {"text": "The American Revolution", "isCorrect": false },
+        {"text": "The Russian Revolution", "isCorrect": false },
+        {"text": "The French Revolution", "isCorrect": true },
+        {"text": "The Industrial Revolution", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the primary purpose of the Constitution?",
+      "options": [
+
+        {"text": "To define trade regulations", "isCorrect": false },
+        {"text": "To establish international relations", "isCorrect": false },
+        {"text": "To outline the framework of government", "isCorrect": true },
+        {"text": "To allocate military resources", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a major river in Africa?",
+      "options": [
+
+        {"text": "The Amazon River", "isCorrect": false },
+        {"text": "The Nile River", "isCorrect": true },
+        {"text": "The Mississippi River", "isCorrect": false },
+        {"text": "The Danube River", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the leader of Germany during World War II?",
+      "options": [
+        {"text": "Adolf Hitler", "isCorrect": true },
+        {"text": "Winston Churchill", "isCorrect": false },
+        {"text": "Franklin D. Roosevelt", "isCorrect": false },
+        {"text": "Joseph Stalin", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": [
+
+        {"text": "Kyoto", "isCorrect": false },
+        {"text": "Osaka", "isCorrect": false },
+        {"text": "Nagoya", "isCorrect": false },
+        {"text": "Tokyo", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "Which ancient civilization is known for building pyramids?",
+      "options": [
+
+        {"text": "Romans", "isCorrect": false },
+        {"text": "Egyptians", "isCorrect": true },
+        {"text": "Mayans", "isCorrect": false },
+        {"text": "Greeks", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What was the Silk Road?",
+      "options": [
+        {"text": "A trade route connecting Asia and Europe", "isCorrect": true },
+        {"text": "A path used in the Roman Empire", "isCorrect": false },
+        {"text": "A shipping lane across the Atlantic", "isCorrect": false },
+        {"text": "A highway built during the Industrial Revolution", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic?",
+      "options": [
+
+        {"text": "Rosa Parks", "isCorrect": false },
+        {"text": "Marie Curie", "isCorrect": false },
+        {"text": "Amelia Earhart", "isCorrect": true },
+        {"text": "Jane Austen", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": [
+
+        {"text": "Gobi Desert", "isCorrect": false },
+        {"text": "Arctic Desert", "isCorrect": false },
+        {"text": "Sahara Desert", "isCorrect": true },
+        {"text": "Kalahari Desert", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which U.S. state was the last to join the union?",
+      "options": [
+
+        {"text": "Alaska", "isCorrect": false },
+        {"text": "Hawaii", "isCorrect": true },
+        {"text": "Texas", "isCorrect": false },
+        {"text": "California", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What was the main goal of the Civil Rights Movement?",
+      "options": [
+        {"text": "To end racial segregation and discrimination", "isCorrect": true },
+        {"text": "To gain independence from Britain", "isCorrect": false },
+        {"text": "To reform the U.S. Constitution", "isCorrect": false },
+        {"text": "To promote international peace", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the primary leader of the Indian independence movement?",
+      "options": [
+
+        {"text": "Jawaharlal Nehru", "isCorrect": false },
+        {"text": "Subhas Chandra Bose", "isCorrect": false },
+        {"text": "Indira Gandhi", "isCorrect": false },
+        {"text": "Mahatma Gandhi", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the main function of the legislative branch of government?",
+      "options": [
+
+        {"text": "To enforce laws", "isCorrect": false },
+        {"text": "To interpret laws", "isCorrect": false },
+        {"text": "To make laws", "isCorrect": true },
+        {"text": "To allocate budgets", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which event marked the start of World War II?",
+      "options": [
+
+        {"text": "The bombing of Pearl Harbor", "isCorrect": false },
+        {"text": "Germany’s invasion of Poland", "isCorrect": true },
+        {"text": "The assassination of Archduke Franz Ferdinand", "isCorrect": false },
+        {"text": "The signing of the Treaty of Versailles", "isCorrect": false }
+      ]
+    },
+
+
+
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": [
+        {"text": "Japan", "isCorrect": true },
+        {"text": "China", "isCorrect": false },
+        {"text": "South Korea", "isCorrect": false },
+        {"text": "Thailand", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was known as the Iron Lady?",
+      "options": [
+        {"text": "Angela Merkel", "isCorrect": false },
+        {"text": "Indira Gandhi", "isCorrect": false },
+        {"text": "Margaret Thatcher", "isCorrect": true },
+        {"text": "Queen Elizabeth II", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the primary language spoken in Brazil?",
+      "options": [
+        {"text": "Spanish", "isCorrect": false },
+        {"text": "Portuguese", "isCorrect": true },
+        {"text": "English", "isCorrect": false },
+        {"text": "French", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which ancient city is known for its hanging gardens?",
+      "options": [
+        {"text": "Athens", "isCorrect": false },
+        {"text": "Babylon", "isCorrect": true },
+        {"text": "Rome", "isCorrect": false },
+        {"text": "Alexandria", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What year did the Berlin Wall fall?",
+      "options": [
+        {"text": "1985", "isCorrect": false },
+        {"text": "1989", "isCorrect": true },
+        {"text": "1979", "isCorrect": false },
+        {"text": "1991", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the famous emperor of the Roman Empire?",
+      "options": [
+        {"text": "Napoleon Bonaparte", "isCorrect": false },
+        {"text": "Hannibal", "isCorrect": false },
+        {"text": "Julius Caesar", "isCorrect": true },
+        {"text": "Alexander the Great", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the largest continent by land area?",
+      "options": [
+        {"text": "Europe", "isCorrect": false },
+        {"text": "North America", "isCorrect": false },
+        {"text": "Africa", "isCorrect": false },
+        {"text": "Asia", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": [
+        {"text": "The Nile River", "isCorrect": false },
+        {"text": "The Yangtze River", "isCorrect": false },
+        {"text": "The Amazon River", "isCorrect": true },
+        {"text": "The Mississippi River", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the first man to step on the moon?",
+      "options": [
+        {"text": "Buzz Aldrin", "isCorrect": false },
+        {"text": "Alan Shepard", "isCorrect": false },
+        {"text": "Neil Armstrong", "isCorrect": true },
+        {"text": "Yuri Gagarin", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which U.S. document begins with We the People?",
+      "options": [
+        {"text": "The Constitution", "isCorrect": true },
+        {"text": "The Declaration of Independence", "isCorrect": false },
+        {"text": "The Emancipation Proclamation", "isCorrect": false },
+        {"text": "The Bill of Rights", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": [
+        {"text": "Montreal", "isCorrect": false },
+        {"text": "Toronto", "isCorrect": false },
+        {"text": "Ottawa", "isCorrect": true },
+        {"text": "Vancouver", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "options": [
+        {"text": "Joseph Stalin", "isCorrect": true },
+        {"text": "Vladimir Lenin", "isCorrect": false },
+        {"text": "Mikhail Gorbachev", "isCorrect": false },
+        {"text": "Leon Trotsky", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which empire built the Colosseum?",
+      "options": [
+        {"text": "The Ottoman Empire", "isCorrect": false },
+        {"text": "The Byzantine Empire", "isCorrect": false },
+        {"text": "The Roman Empire", "isCorrect": true },
+        {"text": "The Persian Empire", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which document abolished slavery in the United States?",
+      "options": [
+        {"text": "The Emancipation Proclamation", "isCorrect": true },
+        {"text": "The Constitution", "isCorrect": false },
+        {"text": "The Declaration of Independence", "isCorrect": false },
+        {"text": "The Gettysburg Address", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which ocean is the largest by surface area?",
+      "options": [
+        {"text": "The Atlantic Ocean", "isCorrect": false },
+        {"text": "The Indian Ocean", "isCorrect": false },
+        {"text": "The Pacific Ocean", "isCorrect": true },
+        {"text": "The Arctic Ocean", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        {"text": "Raphael", "isCorrect": false },
+        {"text": "Michelangelo", "isCorrect": false },
+        {"text": "Vincent van Gogh", "isCorrect": false },
+        {"text": "Leonardo da Vinci", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "options": [
+        {"text": "San Marino", "isCorrect": false },
+        {"text": "Vatican City", "isCorrect": true },
+        {"text": "Monaco", "isCorrect": false },
+        {"text": "Liechtenstein", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which event is often considered the start of the American Revolution?",
+      "options": [
+        {"text": "The Boston Tea Party", "isCorrect": false },
+        {"text": "The Declaration of Independence", "isCorrect": false },
+        {"text": "The Battle of Lexington and Concord", "isCorrect": true },
+        {"text": "The Boston Massacre", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What year did Christopher Columbus discover the Americas?",
+      "options": [
+        {"text": "1475", "isCorrect": false },
+        {"text": "1489", "isCorrect": false },
+        {"text": "1492", "isCorrect": true },
+        {"text": "1502", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What was the main cause of the American Civil War?",
+      "options": [
+        {"text": "Disagreements over slavery", "isCorrect": true },
+        {"text": "Territorial expansion", "isCorrect": false },
+        {"text": "Conflicts over trade policies", "isCorrect": false },
+        {"text": "Disputes with Britain", "isCorrect": false }
+      ]
+    }
+  ],
+
+
+
+
+  "React": [
+    {
+      "question": "What is React?",
+      "options": [
+        {"text": "A JavaScript library for building user interfaces", "isCorrect": true },
+        {"text": "A programming language", "isCorrect": false },
+        {"text": "A CSS framework", "isCorrect": false },
+        {"text": "A database management tool", "isCorrect": false }
+      ]
+    },
+
+    {
+      "question": "Which of the following hooks is used to manage local component state in React?",
+      "options": [
+        {"text": "useEffect", "isCorrect": false },
+        {"text": "useState", "isCorrect": true },
+        {"text": "useRef", "isCorrect": false },
+        {"text": "useContext", "isCorrect": false }
+      ]
+    },
+
+
+
+
+    {
+      "question": "What is JSX in React?",
+      "options": [
+
+        {"text": "A library for state management", "isCorrect": false },
+        {"text": "A server-side rendering tool", "isCorrect": false },
+        {"text": "A syntax extension for JavaScript", "isCorrect": true },
+        {"text": "A function for managing events", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which method is used to create a component in React?",
+      "options": [
+
+        {"text": "Object or array", "isCorrect": false },
+        {"text": "Function or class", "isCorrect": true },
+        {"text": "Array or string", "isCorrect": false },
+        {"text": "Variable or constant", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a state in React?",
+      "options": [
+        {"text": "A JavaScript object used to store dynamic data", "isCorrect": true },
+        {"text": "A fixed property in components", "isCorrect": false },
+        {"text": "A CSS style object", "isCorrect": false },
+        {"text": "An event listener", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the key prop in React?",
+      "options": [
+
+        {"text": "To bind event handlers to components", "isCorrect": false },
+        {"text": "To uniquely identify elements in a list", "isCorrect": true },
+        {"text": "To style elements dynamically", "isCorrect": false },
+        {"text": "To pass state between components", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the virtual DOM in React?",
+      "options": [
+
+        {"text": "A CSS-based rendering model", "isCorrect": false },
+        {"text": "An alternative to the browser DOM", "isCorrect": false },
+        {"text": "A type of event system", "isCorrect": false },
+        {"text": "A lightweight copy of the real DOM", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "How can you pass data from a parent component to a child component?",
+      "options": [
+        {"text": "Using props", "isCorrect": true },
+        {"text": "Using state", "isCorrect": false },
+        {"text": "Using the context API", "isCorrect": false },
+        {"text": "Using lifecycle methods", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a functional component in React?",
+      "options": [
+        {"text": "A function that returns JSX", "isCorrect": true },
+        {"text": "A class-based component", "isCorrect": false },
+        {"text": "A component with state", "isCorrect": false },
+        {"text": "A component that manages events", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which hook is used for state management in functional components?",
+      "options": [
+
+        {"text": "useEffect", "isCorrect": false },
+        {"text": "useContext", "isCorrect": false },
+        {"text": "useState", "isCorrect": true },
+        {"text": "useReducer", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the useEffect hook do?",
+      "options": [
+        {"text": "Performs side effects in function components", "isCorrect": true },
+        {"text": "Manages component state", "isCorrect": false },
+        {"text": "Handles event delegation", "isCorrect": false },
+        {"text": "Optimizes component rendering", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of React Router?",
+      "options": [
+        {"text": "To enable navigation between different views or pages", "isCorrect": true },
+        {"text": "To manage global state", "isCorrect": false },
+        {"text": "To handle API requests", "isCorrect": false },
+        {"text": "To render components on the server", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the default method to render a React component into the DOM?",
+      "options": [
+
+        {"text": "React.renderComponent", "isCorrect": false },
+        {"text": "ReactDOM.render", "isCorrect": true },
+        {"text": "React.mount", "isCorrect": false },
+        {"text": "React.initialize", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the main advantage of React?",
+      "options": [
+
+        {"text": "Built-in database integration", "isCorrect": false },
+        {"text": "Efficient updates using the virtual DOM", "isCorrect": true },
+        {"text": "Server-side rendering by default", "isCorrect": false },
+        {"text": "Native support for mobile development", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a higher-order component (HOC)?",
+      "options": [
+        {"text": "A component with additional lifecycle methods", "isCorrect": false },
+        {"text": "A component that uses hooks", "isCorrect": false },
+        {"text": "A function that takes a component and returns a new component", "isCorrect": true },
+        {"text": "A class-based component with props", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the setState method do?",
+      "options": [
+        {"text": "Updates the component’s state", "isCorrect": true },
+        {"text": "Re-renders the component", "isCorrect": false },
+        {"text": "Merges props and state", "isCorrect": false },
+        {"text": "Changes the component’s key", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the Context API used for?",
+      "options": [
+        {"text": "To share data between components without passing props down manually", "isCorrect": true },
+        {"text": "To manage local component state", "isCorrect": false },
+        {"text": "To handle API calls", "isCorrect": false },
+        {"text": "To define component styles", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the difference between props and state?",
+      "options": [
+
+        {"text": "Props are mutable, state is immutable", "isCorrect": false },
+        {"text": "Both props and state are immutable", "isCorrect": false },
+        {"text": "Props are immutable, state is mutable", "isCorrect": true },
+        {"text": "Both props and state are mutable", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does 'lifting state up' mean in React?",
+      "options": [
+
+        {"text": "Passing state down as props", "isCorrect": false },
+        {"text": "Storing state in the local storage", "isCorrect": false },
+        {"text": "Managing state with the Context API", "isCorrect": false },
+        {"text": "Moving state to a common parent component", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the purpose of React.Fragment?",
+      "options": [
+        {"text": "To group multiple elements without adding extra nodes to the DOM", "isCorrect": true },
+        {"text": "To render components conditionally", "isCorrect": false },
+        {"text": "To manage state", "isCorrect": false },
+        {"text": "To style components", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the React Developer Tools extension used for?",
+      "options": [
+        {"text": "To inspect the component hierarchy and state", "isCorrect": true },
+        {"text": "To debug server-side code", "isCorrect": false },
+        {"text": "To test performance on mobile devices", "isCorrect": false },
+        {"text": "To edit CSS files", "isCorrect": false }
+      ]
+    },
+
+
+    {
+      "question": "What is React’s primary use?",
+      "options": [
+        {"text": "Building server-side applications", "isCorrect": false },
+        {"text": "Building mobile applications", "isCorrect": false },
+        {"text": "Building user interfaces for single-page applications", "isCorrect": true },
+        {"text": "Building back-end services", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the useCallback hook do?",
+      "options": [
+        {"text": "Caches a function to prevent re-creation on every render", "isCorrect": true },
+        {"text": "Updates a component based on state changes", "isCorrect": false },
+        {"text": "Fetches data from an API", "isCorrect": false },
+        {"text": "Defines styles for a component", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the React.StrictMode component?",
+      "options": [
+        {"text": "To enable experimental features in React", "isCorrect": false },
+        {"text": "To identify potential problems in the application during development", "isCorrect": true },
+        {"text": "To optimize performance of React components", "isCorrect": false },
+        {"text": "To render components faster in production", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the 'useRef' hook return?",
+      "options": [
+        {"text": "A mutable reference object", "isCorrect": true },
+        {"text": "A value stored in the state", "isCorrect": false },
+        {"text": "A function to update the state", "isCorrect": false },
+        {"text": "The current value of a component", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is NOT a feature of React?",
+      "options": [
+        {"text": "Declarative UI", "isCorrect": false },
+        {"text": "Component-based architecture", "isCorrect": false },
+        {"text": "Two-way data binding", "isCorrect": true },
+        {"text": "Virtual DOM", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of these is used to style React components?",
+      "options": [
+        {"text": "CSS-in-JS libraries like styled-components", "isCorrect": true },
+        {"text": "React-specific CSS classes", "isCorrect": false },
+        {"text": "Direct HTML styling", "isCorrect": false },
+        {"text": "CSS selectors directly in JSX", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the useReducer hook do in React?",
+      "options": [
+        {"text": "Manages local component state based on actions", "isCorrect": true },
+        {"text": "Fetches data from an API", "isCorrect": false },
+        {"text": "Handles side effects in components", "isCorrect": false },
+        {"text": "Handles component lifecycle events", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the use of the componentDidMount lifecycle method?",
+      "options": [
+        {"text": "It is called when the component mounts and runs only once", "isCorrect": true },
+        {"text": "It is used to update the state after component mounting", "isCorrect": false },
+        {"text": "It runs when the component is unmounted", "isCorrect": false },
+        {"text": "It is used for handling events", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of React.memo?",
+      "options": [
+        {"text": "It prevents unnecessary re-renders of functional components", "isCorrect": true },
+        {"text": "It allows state management", "isCorrect": false },
+        {"text": "It optimizes rendering speed of class-based components", "isCorrect": false },
+        {"text": "It handles lifecycle methods", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the React component lifecycle?",
+      "options": [
+        {"text": "The sequence of methods called during a component’s existence", "isCorrect": true },
+        {"text": "The process of rendering a component to the DOM", "isCorrect": false },
+        {"text": "The process of applying styles to a component", "isCorrect": false },
+        {"text": "The handling of events in components", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the useLayoutEffect hook?",
+      "options": [
+        {"text": "It runs synchronously after DOM mutations", "isCorrect": true },
+        {"text": "It manages state in functional components", "isCorrect": false },
+        {"text": "It is used to make AJAX requests", "isCorrect": false },
+        {"text": "It handles component rendering", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which method is used to handle form submission in React?",
+      "options": [
+        {"text": "onSubmit", "isCorrect": true },
+        {"text": "handleSubmit", "isCorrect": false },
+        {"text": "submitForm", "isCorrect": false },
+        {"text": "onFormSubmit", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the render prop pattern in React?",
+      "options": [
+        {"text": "A pattern where a component provides a function prop to a child component", "isCorrect": true },
+        {"text": "A function that renders components conditionally", "isCorrect": false },
+        {"text": "A method for passing data to components", "isCorrect": false },
+        {"text": "A technique for handling lifecycle methods", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you handle dynamic imports in React?",
+      "options": [
+        {"text": "Using the import() syntax", "isCorrect": true },
+        {"text": "Using the require() function", "isCorrect": false },
+        {"text": "Using the useEffect hook", "isCorrect": false },
+        {"text": "Using setState method", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a stateless component in React?",
+      "options": [
+        {"text": "A component that does not manage or rely on state", "isCorrect": true },
+        {"text": "A component with local state", "isCorrect": false },
+        {"text": "A class-based component", "isCorrect": false },
+        {"text": "A component that renders dynamically", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the dangerouslySetInnerHTML prop in React allow?",
+      "options": [
+        {"text": "It allows inserting raw HTML into the component", "isCorrect": true },
+        {"text": "It automatically escapes HTML to prevent XSS", "isCorrect": false },
+        {"text": "It injects dynamic styles into the component", "isCorrect": false },
+        {"text": "It updates state dynamically", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the useContext hook do in React?",
+      "options": [
+        {"text": "It allows sharing state across components without passing props", "isCorrect": true },
+        {"text": "It manages side effects", "isCorrect": false },
+        {"text": "It is used for routing", "isCorrect": false },
+        {"text": "It binds events to the component", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is used for testing React components?",
+      "options": [
+        {"text": "Jest and React Testing Library", "isCorrect": true },
+        {"text": "Mocha and Chai", "isCorrect": false },
+        {"text": "Selenium", "isCorrect": false },
+        {"text": "Cypress", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the useEffect hook?",
+      "options": [
+        {"text": "It allows you to perform side effects in function components", "isCorrect": true },
+        {"text": "It manages state changes in components", "isCorrect": false },
+        {"text": "It handles lifecycle events in components", "isCorrect": false },
+        {"text": "It updates the DOM directly", "isCorrect": false }
+      ]
+    }
+
+
+
+
+  ],
+
+  "Mobile App" : [
+    {
+      "question": "What is mobile app development?",
+      "options": [
+        {"text": "The process of creating software applications for mobile devices", "isCorrect": true },
+        {"text": "Designing hardware for mobile devices", "isCorrect": false },
+        {"text": "Developing operating systems for desktops", "isCorrect": false },
+        {"text": "Managing cloud storage systems", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which language is primarily used for iOS app development?",
+      "options": [
+
+        {"text": "Java", "isCorrect": false },
+        {"text": "Kotlin", "isCorrect": false },
+        {"text": "Swift", "isCorrect": true },
+        {"text": "Python", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which language is primarily used for Android app development?",
+      "options": [
+
+        {"text": "Swift", "isCorrect": false },
+        {"text": "Objective-C", "isCorrect": false },
+        {"text": "Kotlin", "isCorrect": true },
+        {"text": "C++", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of an API in mobile app development?",
+      "options": [
+        {"text": "To enable communication between software applications", "isCorrect": true },
+        {"text": "To store data locally", "isCorrect": false },
+        {"text": "To optimize UI components", "isCorrect": false },
+        {"text": "To compress images for faster loading", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the name of the Android app store?",
+      "options": [
+
+        {"text": "Apple App Store", "isCorrect": false },
+        {"text": "Microsoft Store", "isCorrect": false },
+        {"text": "Amazon App Store", "isCorrect": false },
+        {"text": "Google Play Store", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the name of the iOS app store?",
+      "options": [
+        {"text": "Apple App Store", "isCorrect": true },
+        {"text": "Google Play Store", "isCorrect": false },
+        {"text": "Microsoft Store", "isCorrect": false },
+        {"text": "Samsung Galaxy Store", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is cross-platform mobile development?",
+      "options": [
+        {"text": "Building apps that work on multiple operating systems", "isCorrect": true },
+        {"text": "Developing apps for desktop and mobile", "isCorrect": false },
+        {"text": "Creating apps with server-side rendering", "isCorrect": false },
+        {"text": "Using native languages only for mobile apps", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which framework is commonly used for cross-platform mobile development?",
+      "options": [
+
+        {"text": "Swift", "isCorrect": false },
+        {"text": "React Native", "isCorrect": true },
+        {"text": "JavaFX", "isCorrect": false },
+        {"text": "Node.js", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the AndroidManifest.xml file in an Android app?",
+      "options": [
+        {"text": "To define the app’s structure and permissions", "isCorrect": true },
+        {"text": "To store the app’s assets", "isCorrect": false },
+        {"text": "To manage UI components", "isCorrect": false },
+        {"text": "To configure network requests", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is a native app?",
+      "options": [
+        {"text": "An app built specifically for a particular platform", "isCorrect": true },
+        {"text": "An app that runs on the web browser", "isCorrect": false },
+        {"text": "An app built for multiple platforms using the same codebase", "isCorrect": false },
+        {"text": "An app with no user interface", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which tool is used to build iOS applications?",
+      "options": [
+
+        {"text": "Android Studio", "isCorrect": false },
+        {"text": "Visual Studio Code", "isCorrect": false },
+        {"text": "Xcode", "isCorrect": true },
+        {"text": "Eclipse", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which database is commonly used in mobile app development?",
+      "options": [
+
+        {"text": "MySQL", "isCorrect": false },
+        {"text": "SQLite", "isCorrect": true },
+        {"text": "PostgreSQL", "isCorrect": false },
+        {"text": "Oracle DB", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of UI/UX design in mobile apps?",
+      "options": [
+
+        {"text": "To manage app performance", "isCorrect": false },
+        {"text": "To implement APIs", "isCorrect": false },
+        {"text": "To improve user experience and interface design", "isCorrect": true },
+        {"text": "To debug errors", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of Firebase in mobile development?",
+      "options": [
+        {"text": "To provide backend services such as authentication and database", "isCorrect": true },
+        {"text": "To create animations in the app", "isCorrect": false },
+        {"text": "To build custom UI components", "isCorrect": false },
+        {"text": "To manage app translations", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which lifecycle method is called when an Android activity is no longer visible?",
+      "options": [
+
+        {"text": "onResume", "isCorrect": false },
+        {"text": "onCreate", "isCorrect": false },
+        {"text": "onPause", "isCorrect": true },
+        {"text": "onDestroy", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of Gradle in Android development?",
+      "options": [
+
+        {"text": "To manage app resources", "isCorrect": false },
+        {"text": "To handle network requests", "isCorrect": false },
+        {"text": "To store app configurations", "isCorrect": false },
+        {"text": "To automate the build process", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is Flutter?",
+      "options": [
+        {"text": "A UI toolkit for building natively compiled applications", "isCorrect": true },
+        {"text": "A tool for managing app performance", "isCorrect": false },
+        {"text": "A language for writing iOS apps", "isCorrect": false },
+        {"text": "A debugging tool for mobile apps", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the primary language used in Flutter?",
+      "options": [
+
+        {"text": "Swift", "isCorrect": false },
+        {"text": "Dart", "isCorrect": true },
+        {"text": "Kotlin", "isCorrect": false },
+        {"text": "JavaScript", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the main benefit of Progressive Web Apps (PWAs)?",
+      "options": [
+        {"text": "They combine the features of web and mobile apps", "isCorrect": true },
+        {"text": "They require no coding skills", "isCorrect": false },
+        {"text": "They only work on iOS devices", "isCorrect": false },
+        {"text": "They replace backend services", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of app analytics in mobile development?",
+      "options": [
+        {"text": "To track user behavior and app performance", "isCorrect": true },
+        {"text": "To debug app code", "isCorrect": false },
+        {"text": "To manage server-side operations", "isCorrect": false },
+        {"text": "To optimize app design", "isCorrect": false }
+      ]
+    },
+
+
+
+    {
+      "question": "Which of the following is a feature of React Native?",
+      "options": [
+        {"text": "It requires separate code for iOS and Android", "isCorrect": false },
+        {"text": "It compiles directly to machine code", "isCorrect": false },
+        {"text": "It allows the use of native components with JavaScript", "isCorrect": true },
+        {"text": "It only supports Android development", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the main advantage of using Firebase in mobile app development?",
+      "options": [
+        {"text": "Real-time database and easy integration with authentication", "isCorrect": true },
+        {"text": "Compiles mobile apps for both platforms", "isCorrect": false },
+        {"text": "Provides a built-in payment gateway", "isCorrect": false },
+        {"text": "Customizes mobile UI components", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a cross-platform mobile development framework?",
+      "options": [
+        {"text": "Xamarin", "isCorrect": true },
+        {"text": "Angular", "isCorrect": false },
+        {"text": "JavaFX", "isCorrect": false },
+        {"text": "C#", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of the Android Activity lifecycle?",
+      "options": [
+        {"text": "It handles network requests", "isCorrect": false },
+        {"text": "It determines the sequence of events during the activity’s execution", "isCorrect": true },
+        {"text": "It stores the app’s data", "isCorrect": false },
+        {"text": "It manages app security", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which tool is primarily used for Android app development?",
+      "options": [
+        {"text": "Visual Studio", "isCorrect": false },
+        {"text": "Eclipse", "isCorrect": false },
+        {"text": "Android Studio", "isCorrect": true },
+        {"text": "Xcode", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does an APK file stand for in Android development?",
+      "options": [
+        {"text": "Android Key Package", "isCorrect": false },
+        {"text": "Automated Package", "isCorrect": false },
+        {"text": "Android Package", "isCorrect": true },
+        {"text": "Apple Key", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the main purpose of the iOS Human Interface Guidelines?",
+      "options": [
+        {"text": "To handle device performance management", "isCorrect": false },
+        {"text": "To provide design principles for a better user experience on iOS devices", "isCorrect": true },
+        {"text": "To explain how to implement security features on iOS", "isCorrect": false },
+        {"text": "To provide API documentation for iOS apps", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a native language for Android development?",
+      "options": [
+        {"text": "Swift", "isCorrect": false },
+        {"text": "Dart", "isCorrect": false },
+        {"text": "JavaScript", "isCorrect": false },
+        {"text": "Kotlin", "isCorrect": true }
+      ]
+    },
+    {
+      "question": "What is the role of push notifications in mobile apps?",
+      "options": [
+        {"text": "It handles user authentication", "isCorrect": false },
+        {"text": "It sends alerts or updates to users even when the app is not active", "isCorrect": true },
+        {"text": "It manages app permissions", "isCorrect": false },
+        {"text": "It loads new data into the app", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which file is crucial for defining permissions in an Android app?",
+      "options": [
+        {"text": "Permissions.xml", "isCorrect": false },
+        {"text": "AndroidManifest.xml", "isCorrect": true },
+        {"text": "MainActivity.java", "isCorrect": false },
+        {"text": "AppConfig.json", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is an advantage of using SQLite in mobile apps?",
+      "options": [
+        {"text": "It integrates automatically with Firebase", "isCorrect": false },
+        {"text": "It supports large-scale data storage", "isCorrect": false },
+        {"text": "It provides a lightweight, serverless relational database", "isCorrect": true },
+        {"text": "It offers a cloud-based database service", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does Xcode provide for iOS development?",
+      "options": [
+        {"text": "Real-time database support", "isCorrect": false },
+        {"text": "Integrated development environment (IDE)", "isCorrect": true },
+        {"text": "Cross-platform compatibility", "isCorrect": false },
+        {"text": "Cloud storage for app data", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which tool is used for compiling iOS apps?",
+      "options": [
+        {"text": "Xcode", "isCorrect": true },
+        {"text": "Android Studio", "isCorrect": false },
+        {"text": "Visual Studio", "isCorrect": false },
+        {"text": "Eclipse", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of a Content Provider in Android?",
+      "options": [
+        {"text": "To manage app permissions", "isCorrect": false },
+        {"text": "To handle UI components", "isCorrect": false },
+        {"text": "To share data between different apps", "isCorrect": true },
+        {"text": "To provide network connectivity", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does a mobile backend-as-a-service (MBaaS) provide?",
+      "options": [
+        {"text": "It is used for building mobile game apps", "isCorrect": false },
+        {"text": "It designs mobile app interfaces", "isCorrect": false },
+        {"text": "It provides backend infrastructure and services for mobile apps", "isCorrect": true },
+        {"text": "It performs app debugging tasks", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is a mobile-first framework for designing user interfaces?",
+      "options": [
+        {"text": "Vue.js", "isCorrect": false },
+        {"text": "React", "isCorrect": false },
+        {"text": "Bootstrap", "isCorrect": true },
+        {"text": "Angular", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is used for version control in mobile app development?",
+      "options": [
+        {"text": "Docker", "isCorrect": false },
+        {"text": "Jenkins", "isCorrect": false },
+        {"text": "Git", "isCorrect": true },
+        {"text": "Vagrant", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the role of a Splash Screen in mobile apps?",
+      "options": [
+        {"text": "It displays a brief introductory screen when the app starts", "isCorrect": true },
+        {"text": "It manages background tasks", "isCorrect": false },
+        {"text": "It optimizes app performance", "isCorrect": false },
+        {"text": "It handles user authentication", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the main benefit of implementing Offline Mode in mobile apps?",
+      "options": [
+        {"text": "It improves the app’s user interface", "isCorrect": false },
+        {"text": "It allows users to use the app even without an active internet connection", "isCorrect": true },
+        {"text": "It provides real-time data syncing", "isCorrect": false },
+        {"text": "It boosts the app’s performance", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which of the following is true about Progressive Web Apps (PWAs)?",
+      "options": [
+        {"text": "They require native code for mobile apps", "isCorrect": false },
+        {"text": "They work offline only on iOS devices", "isCorrect": false },
+        {"text": "They are designed to work seamlessly across both web and mobile platforms", "isCorrect": true },
+        {"text": "They can only be used on Android devices", "isCorrect": false }
+      ]
+    }
+
+
+
+
+
+  ]
+
+
+
+}
